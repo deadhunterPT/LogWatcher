@@ -6,7 +6,7 @@ Features:
 - Outputs suspicious IPs for further analysis
 
 
-Requisitos:
+Requirements:
 
 - Python 3.6+
 - No external libraries
