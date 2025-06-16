@@ -1,3 +1,6 @@
+# LogWatcher  by Gabriel Pereira
+# command : python logwatcher.py --log sample_log-auth.txt --blacklist blacklist.txt
+
 import re
 import argparse
 from datetime import datetime, timedelta
