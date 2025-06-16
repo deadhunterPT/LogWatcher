@@ -1,0 +1,8 @@
+Jun 16 15:10:01 myserver sshd[1999]: Failed password for invalid user admin from 192.168.1.10 port 51234 ssh2
+Jun 16 15:11:01 myserver sshd[2000]: Failed password for invalid user admin from 192.168.1.10 port 51235 ssh2
+Jun 16 15:12:01 myserver sshd[2001]: Failed password for invalid user admin from 192.168.1.10 port 51236 ssh2
+Jun 16 15:13:01 myserver sshd[2002]: Failed password for invalid user admin from 192.168.1.10 port 51237 ssh2
+Jun 16 15:14:01 myserver sshd[2003]: Failed password for invalid user admin from 192.168.1.10 port 51238 ssh2
+
+Jun 16 15:15:01 myserver sshd[2004]: Failed password for root from 10.0.0.5 port 42222 ssh2
+Jun 16 15:35:01 myserver sshd[2005]: Failed password for root from 10.0.0.5 port 42223 ssh2
